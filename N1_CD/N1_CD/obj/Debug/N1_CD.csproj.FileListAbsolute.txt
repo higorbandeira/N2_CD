@@ -1,0 +1,10 @@
+c:\users\081160032\source\repos\N1_CD\N1_CD\bin\Debug\N1_CD.exe.config
+c:\users\081160032\source\repos\N1_CD\N1_CD\bin\Debug\N1_CD.exe
+c:\users\081160032\source\repos\N1_CD\N1_CD\bin\Debug\N1_CD.pdb
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.csprojAssemblyReference.cache
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.Form1.resources
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.Properties.Resources.resources
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.csproj.GenerateResource.cache
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.csproj.CoreCompileInputs.cache
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.exe
+c:\users\081160032\source\repos\N1_CD\N1_CD\obj\Debug\N1_CD.pdb
